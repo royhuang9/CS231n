@@ -1,3 +1,7 @@
+Thank Bruce. I took half of the lesson on youtube several months again. When I came back to it, the link for assignment 3 is not working. Fortunately I found it on github. I will upload my personal answer for these assignments.
+
+The following is from Bruce, I didn't change it.
+
 CS231n Convolutional Neural Networks for Visual Recognition - Assignment Solutions
 ===============
 
